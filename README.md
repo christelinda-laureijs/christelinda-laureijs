@@ -1,7 +1,5 @@
 # Hello!
 
-I'm Christelinda Laureijs.
-
 I am an undergraduate student at Mount Allison University (Major: Biology, Minor: Biochemistry). My research interests include neurophysiology, data visualization, and R coding.
 
 <div align="center">
