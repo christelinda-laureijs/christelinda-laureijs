@@ -13,7 +13,7 @@ For my honours thesis ([https://github.com/christelinda-laureijs/honours-thesis]
 
 I built a personal website using R, blogdown, and Netlify to highlight my professional projects. This can be found at [https://christelindalaureijs.com/](https://christelindalaureijs.com/)!
 
-<div align="center">
+<div align="left">
 <img src="Laureijs-Cover-Image.png" width = 800px/>
 </div>    
 
