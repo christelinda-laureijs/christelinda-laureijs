@@ -9,7 +9,7 @@ For my honours thesis ([https://github.com/christelinda-laureijs/honours-thesis]
 I wrote an R package called **patchclampplotteR**, which allows electrophysiologists to create publication-quality plots from raw patch clamp recording data. You can learn more on [the patchclampplotteR website](https://christelinda-laureijs.github.io/patchclampplotteR/index.html)!
 
 <div align="center">
-<img src="patchclampplotteR-icon.png" width = 800px/>
+<img src="logo.png" width = 800px/>
 </div> 
 
 I built a personal website using R, blogdown, and Netlify to highlight my professional projects. This can be found at [https://christelindalaureijs.com/](https://christelindalaureijs.com/)!
