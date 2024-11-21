@@ -5,7 +5,7 @@ I'm Christelinda. I am a grad student at Mount Allison University, pursuing a MS
 ## Recent projects
 
 <a href="https://christelinda-laureijs.github.io/patchclampplotteR/index.html">
-<img src="logo.png" width = 200px align="left"/></a>
+<img src="logo.png" width = 150px align="left"/></a>
 
 I wrote an R package called **patchclampplotteR**, which allows electrophysiologists to create publication-quality plots from raw patch clamp recording data. You can learn more on [the patchclampplotteR website](https://christelinda-laureijs.github.io/patchclampplotteR/index.html)!
 
